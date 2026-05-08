@@ -11,5 +11,5 @@ TryHackMe — Pre Security Path
 
 ## Progress
 - [x] Offensive Security Intro
-- [ ] Defensive Security Intro
+- [x] Defensive Security Intro
 - [ ] Linux Fundamentals
