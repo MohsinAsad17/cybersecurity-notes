@@ -14,4 +14,4 @@ TryHackMe — Pre Security Path
 - [x] Defensive Security Intro
 - [x] DNS in Detail
 - [ ] HTTP in Detail
-- [ ] Linux Fundamentals
+
