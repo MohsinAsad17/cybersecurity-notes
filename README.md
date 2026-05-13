@@ -6,9 +6,6 @@ My cybersecurity learning journey — TryHackMe rooms, notes, and CTF writeups
 - Tool notes
 - CTF solutions
 
-## Current Focus
-TryHackMe — Pre Security Path
-
 ## Progress
 - [x] Offensive Security Intro
 - [x] Defensive Security Intro
